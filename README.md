@@ -1,1 +1,1 @@
-# jetpack
+# jetpack compose & motion layout samples
