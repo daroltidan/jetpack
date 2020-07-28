@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">jetpack</string>
+    <string name="app_name">motion layout presentation</string>
+    <string name="button_transitions">Button Transition</string>
+    <string name="viewpager_with_nav_drawer">View Pager with Nav Drawer</string>
+    <string name="fragment_transitions">Fragment Transitions</string>
+    <string name="expanded">Expanded</string>
+    <string name="collapsed">Collapsed</string>
 </resources>
